@@ -1,0 +1,41 @@
+ID,Data,Setor,Tipo de problema,Prioridade,Status,Tempo de atendimento (min)
+001,01/10/2026,Administrativo,Impressora,Média,Concluído,27
+002,01/10/2026,Administrativo,Impressora,Média,Concluído,85
+003,02/10/2026,Atendimento,Impressora,Baixa,Concluído,87
+004,02/10/2026,RH,Computador lento,Média,Pendente,0
+005,03/10/2026,Atendimento,Acesso ao sistema,Média,Pendente,0
+006,03/10/2026,RH,E-mail,Baixa,Concluído,45
+007,04/10/2026,Financeiro,Acesso ao sistema,Alta,Concluído,58
+008,04/10/2026,RH,Rede/Internet,Média,Concluído,15
+009,05/10/2026,Administrativo,Rede/Internet,Baixa,Em andamento,0
+010,05/10/2026,Logística,Acesso ao sistema,Média,Em andamento,10
+011,06/10/2026,Logística,Acesso ao sistema,Baixa,Concluído,47
+012,06/10/2026,RH,Periféricos,Alta,Concluído,68
+013,07/10/2026,Administrativo,E-mail,Baixa,Concluído,95
+014,07/10/2026,Vendas,E-mail,Média,Concluído,91
+015,08/10/2026,Financeiro,Computador lento,Baixa,Concluído,44
+016,08/10/2026,Administrativo,Computador lento,Baixa,Concluído,17
+017,09/10/2026,Financeiro,E-mail,Alta,Concluído,18
+018,09/10/2026,Financeiro,Periféricos,Média,Pendente,0
+019,10/10/2026,Financeiro,Computador lento,Média,Em andamento,15
+020,10/10/2026,Financeiro,Acesso ao sistema,Baixa,Concluído,43
+021,11/10/2026,Administrativo,Computador lento,Alta,Concluído,38
+022,11/10/2026,Financeiro,Rede/Internet,Baixa,Concluído,24
+023,12/10/2026,Financeiro,Computador lento,Alta,Concluído,18
+024,12/10/2026,Atendimento,Rede/Internet,Alta,Concluído,80
+025,13/10/2026,RH,Computador lento,Baixa,Em andamento,10
+026,13/10/2026,Administrativo,Rede/Internet,Média,Concluído,10
+027,14/10/2026,Administrativo,Periféricos,Média,Concluído,32
+028,14/10/2026,Logística,Periféricos,Alta,Concluído,91
+029,15/10/2026,Logística,Computador lento,Baixa,Pendente,0
+030,15/10/2026,Logística,Periféricos,Alta,Em andamento,10
+031,16/10/2026,Atendimento,Impressora,Alta,Em andamento,10
+032,16/10/2026,Financeiro,Impressora,Alta,Em andamento,0
+033,17/10/2026,Administrativo,Rede/Internet,Baixa,Pendente,0
+034,17/10/2026,Financeiro,Impressora,Média,Concluído,43
+035,18/10/2026,Logística,Periféricos,Média,Concluído,79
+036,18/10/2026,Administrativo,Computador lento,Média,Concluído,95
+037,19/10/2026,Administrativo,Rede/Internet,Alta,Concluído,41
+038,19/10/2026,Financeiro,Impressora,Baixa,Concluído,85
+039,20/10/2026,Financeiro,Impressora,Média,Concluído,18
+040,20/10/2026,RH,Periféricos,Baixa,Concluído,95

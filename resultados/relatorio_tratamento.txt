@@ -1,0 +1,44 @@
+RELATÓRIO DE TRATAMENTO DE DADOS - CHAMADOS DE TI
+==================================================
+Registros lidos: 42
+Registros após tratamento: 40
+
+PROBLEMAS ENCONTRADOS E CORRIGIDOS
+- Status fora do padrão: 4
+- Prioridades fora do padrão: 2
+- Setores fora do padrão: 2
+- Tipos fora do padrão: 2
+- Datas fora do padrão ou inválidas: 2
+- Registros duplicados removidos: 1
+- IDs repetidos removidos: 1
+
+INDICADORES
+Total de chamados: 40
+Concluídos: 28 (70.0%)
+Tempo médio dos concluídos: 53.2 min
+
+CHAMADOS POR STATUS
+- Concluído: 28
+- Em andamento: 7
+- Pendente: 5
+
+CHAMADOS POR TIPO DE PROBLEMA
+- Computador lento: 9
+- Impressora: 8
+- Rede/Internet: 7
+- Periféricos: 7
+- Acesso ao sistema: 5
+- E-mail: 4
+
+CHAMADOS POR SETOR
+- Financeiro: 12
+- Administrativo: 11
+- RH: 6
+- Logística: 6
+- Atendimento: 4
+- Vendas: 1
+
+CHAMADOS POR PRIORIDADE
+- Média: 15
+- Baixa: 14
+- Alta: 11
