@@ -51,7 +51,7 @@ Após o tratamento, `chamados_tratados.csv` fica igual aos dados da aba *Chamado
 ## Relação com a planilha
 Os mesmos indicadores (total, concluídos, tempo médio, tipo mais frequente) são calculados
 no Google Sheets com `CONT.VALORES`, `CONT.SE` e `MÉDIASE`.
-Link da planilha: _(cole aqui)_ · Apresentação: _(cole aqui)_
+Link da planilha: _(https://docs.google.com/spreadsheets/d/1bfDX6cUo4Adeco7AZTjMgY9sb6iZwurgrvqsJESIv58/edit?usp=sharing)_
 
 ## Observação
 Todos os dados são fictícios.
